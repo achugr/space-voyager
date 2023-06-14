@@ -1,0 +1,6 @@
+.idea
+*.iml
+neo4j
+client/node_modules
+build
+.gradle

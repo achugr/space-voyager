@@ -1,0 +1,7 @@
+/.git
+/.gradle
+/.idea
+/neo4j
+/client/node_modules/
+/build
+/.gradle
